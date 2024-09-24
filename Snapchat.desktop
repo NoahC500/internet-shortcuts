@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_GB]=Snapchat Client
+Comment=Snapchat Client
+Exec=xdg-open https://web.snapchat.com/
+GenericName[en_GB]=Web client for Snapchat
+GenericName=Web client for Snapchat
+Icon=/home/noah/AUR/internet-shortcuts/Snapchat_logo.svg
+MimeType=
+Name[en_GB]=Snapchat Web
+Name=Snapchat Web
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

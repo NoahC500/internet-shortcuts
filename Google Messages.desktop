@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_GB]=SMS Client
+Comment=SMS Client
+Exec=xdg-open https://messages.google.com/web/u/0/conversations
+GenericName[en_GB]=Online client for Google Messages
+GenericName=Online client for Google Messages
+Icon=/home/noah/AUR/internet-shortcuts/google-messages.svg
+MimeType=
+Name[en_GB]=Google Messages
+Name=Google Messages
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

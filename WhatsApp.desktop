@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_GB]=WhatsApp Client
+Comment=WhatsApp Client
+Exec=xdg-open https://web.whatsapp.com/
+GenericName[en_GB]=Web client for WhatsApp
+GenericName=Web client for WhatsApp
+Icon=/home/noah/AUR/internet-shortcuts/WhatsApp.svg
+MimeType=
+Name[en_GB]=WhatsApp Web
+Name=WhatsApp Web
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
